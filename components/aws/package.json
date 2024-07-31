@@ -21,8 +21,8 @@
         "@aws-sdk/client-ses": "^3.58.0",
         "@aws-sdk/client-sfn": "^3.58.0",
         "@aws-sdk/client-sns": "^3.58.0",
-        "@aws-sdk/client-sqs": "^3.58.0",
-        "@aws-sdk/client-ssm": "^3.58.0",
+        "@aws-sdk/client-sqs": "^3.327.0",
+        "@aws-sdk/client-ssm": "^3.529.0",
         "@aws-sdk/client-sts": "^3.58.0",
         "mailparser-mit": "^1.0.0"
     },
