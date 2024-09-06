@@ -15,6 +15,6 @@
         "access": "public"
     },
     "dependencies": {
-        "@slack/web-api": "^5.15.0"
+        "@slack/web-api": "^6.12.1"
     }
 }
