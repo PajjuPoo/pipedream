@@ -15,6 +15,6 @@
     "access": "public"
   },
   "dependencies": {
-    "pipedrive": "^13.2.7"
+    "pipedrive": "^13.3.2"
   }
 }
