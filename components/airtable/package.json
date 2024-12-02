@@ -16,7 +16,7 @@
     },
     "dependencies": {
         "airtable": "^0.11.1",
-        "axios": "^0.21.1",
+        "axios": "^1.7.8",
         "bottleneck": "^2.19.5",
         "lodash": "^4.17.21",
         "lodash.chunk": "^4.2.0",
