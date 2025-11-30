@@ -16,9 +16,9 @@
     },
     "dependencies": {
         "@google-cloud/bigquery": "^6.0.0",
-        "@google-cloud/logging": "^10.0.3",
-        "@google-cloud/pubsub": "^3.0.1",
-        "@google-cloud/storage": "^6.0.1",
+        "@google-cloud/logging": "^11.0.0",
+        "@google-cloud/pubsub": "^4.0.0",
+        "@google-cloud/storage": "^7.0.0",
         "@pipedream/platform": "^0.10.0",
         "crypto": "^1.0.1",
         "lodash-es": "^4.17.21",
